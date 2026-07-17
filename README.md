@@ -32,10 +32,11 @@ The goal of this project is to demonstrate my SQL querying skills and my ability
 **🎯 Key Learnings**
 
 How to approach analytical questions using SQL
-**Writing optimized and readable SQL queries**
+Writing optimized and readable SQL queries
 Translating raw data into meaningful insights
 Building confidence for SQL interviews and projects
 
-📌 Note
+**📌 Note**
 
-This project focuses purely on data analysis using SQL.  No machine learning or advanced programming is involved.
+This project focuses purely on data analysis using SQL.  
+**No machine learning or advanced programming is involved.**
