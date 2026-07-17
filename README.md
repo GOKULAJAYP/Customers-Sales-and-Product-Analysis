@@ -1,4 +1,4 @@
-📊 SQL Data Analysis Project
+**📊 SQL Data Analysis Project**
 
 This repository contains my SQL Data Analysis Project, where I explored, analyzed, and extracted insights from structured datasets using SQL queries. The project focuses on strengthening core SQL concepts that are essential for Data Analyst roles, especially at the fresher level.
 
